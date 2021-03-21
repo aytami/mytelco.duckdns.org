@@ -1,0 +1,23 @@
+Keterangan :
+Membuat akun SSH/OpenVPN
+new - Gunakan untuk membuat akun SSH &OpenVPN dengan mengisi form username, password, dan masa sewa
+Menghapus akun SSH/OpenVPN
+del - Gunakan untuk menghapus akun SSH & OpenVPN
+Cek user login SSH
+cek- Gunakan untuk mengecek pengguna SSH yang sedang menggunakannya
+member - Gunakan untuk melihat daftar akun SSH/OpenVPN beserta tanggal kadaluarsa
+add-ss - Gunakan untuk membuat akun Shadowshock
+del-ss - Gunakan untuk menghapus akun Shadowshock
+add-ssr - Gunakan untuk membuat akun ShadowshockR SSR
+del-ssr - Gunakan untuk menghapus akun ShadowshockR SSR
+add-wg - Gunakan untuk membuat akun Wireguard
+del-wg - Gunakan untuk menghapus akun Wireguard
+add-vpn - Gunakan untuk membuat akun L2TP/Ipsec &SSTP
+del-vpn - Gunakan untuk menghapus akun L2TP/Ipsec &SSTP
+add-pd - Gunakan untuk membuat pointing bug
+del-pd - Gunakan untuk menghapus pointing bug
+port - Gunakan untuk melihat port server
+Speedtest
+speedtest - Gunakan untuk mengetes kecepatan koneksi VPS
+Restart VPS
+reboot - Gunakan untuk merestart VPS
