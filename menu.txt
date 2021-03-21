@@ -21,3 +21,21 @@ Speedtest
 speedtest - Gunakan untuk mengetes kecepatan koneksi VPS
 Restart VPS
 reboot - Gunakan untuk merestart VPS
+
+
+
+OpenSSH                       : 22
+Dropbear                        : 143,456
+SSL/TLS                        : 990,991
+Squid3                            : 8000,8080
+BadVPN                         : Udpgw Port 7200,7300
+Nginx                             : 81
+OpenVPN TCP              : 1195
+OpenVPN UDP              : 1196
+OpenVPN SSL               : 992
+Port SSTP                       : 443
+Port SS-Obfs-TLS          :8443
+Port SS-Obfs-HTTP       : 8444
+Port ShadowsockR SSR : 8445-8545
+Port Badvpn-UDPGW    : 7200,7300
+Catatan
